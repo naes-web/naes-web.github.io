@@ -1,0 +1,3 @@
+[submodule "naes-web/themes/lekh"]
+	path = naes-web/themes/lekh
+	url = https://github.com/ba11b0y/lekh.git
